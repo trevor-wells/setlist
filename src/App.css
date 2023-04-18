@@ -37,7 +37,6 @@ h3, h4 {
     gap:2em;
     width:100%;
     height:75%;
-    width:auto;
 }
 
 .song-list {
@@ -49,9 +48,7 @@ h3, h4 {
 }
 
 .setlist {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+    
     row-gap: .25em;
     column-gap: 1em; 
     width:auto;
